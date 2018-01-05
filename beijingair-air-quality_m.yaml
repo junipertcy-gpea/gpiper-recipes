@@ -1,4 +1,5 @@
 name: beijingair-air-quality_m
-description: The historical air quality readings for 1563 stations in Beijing. 全中国空气质量历史数据.
+database: 1  # 1 for true; 0 for false.
+description: The historical air quality readings for 1563 stations in Beijing.
 homepage: http://beijingair.sinaapp.com/
 url:
