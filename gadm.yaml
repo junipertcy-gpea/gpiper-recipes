@@ -1,6 +1,6 @@
 name: gadm
 database: 0  # 1 for true; 0 for false.
-description_short: A spatial database of the location of the world's administrative areas (or adminstrative boundaries) for use in GIS and similar software.
-description_long: Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahahav
+description: A spatial database of the location of the world's administrative areas (or adminstrative boundaries) for use in GIS and similar software.
+description_detailed: Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahahav
 homepage: http://gadm.org/
 url:

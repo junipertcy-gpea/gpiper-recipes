@@ -1,6 +1,6 @@
 name: beijingair-air-quality_m
 database: 1  # 1 for true; 0 for false.
-description_short: The historical air quality readings for 1563 stations in Beijing.
-description_long: Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahahav
+description: The historical air quality readings for 1563 stations in Beijing.
+description_detailed: Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahahav
 homepage: http://beijingair.sinaapp.com/
 url:
