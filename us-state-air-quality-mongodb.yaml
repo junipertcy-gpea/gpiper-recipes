@@ -3,6 +3,6 @@ database: 1  # 1 for true; 0 for false.
 description: The historical air quality readings for some cities in China; collected by the US Embassy.
 description_detailed: Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahahav
 homepage: nope
-url: http://localhost:27017/
+uri: http://localhost:27017/
 db: gpea_raw_readings
 collection: aq_us_state
