@@ -4,5 +4,6 @@ description: The historical air quality readings for some cities in China; colle
 description_detailed: Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahahav
 homepage: nope
 uri: http://localhost:27017/
+url:
 db: gpea_raw_readings
 collection: aq_us_state

@@ -4,5 +4,6 @@ description: The historical air quality readings for 1563 stations in Beijing.
 description_detailed: Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahaha-Wahahav
 homepage: "http://beijingair.sinaapp.com/"
 uri: http://localhost:27017/
+url:
 db: gpea_raw_readings
 collection: aq_mep
